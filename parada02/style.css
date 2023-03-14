@@ -1,0 +1,46 @@
+body {
+  background-color: #1d1e2c;
+}
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: auto;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  background-color: #59656f;
+  width: 660px;
+  border-radius: 20px;
+  padding: 10px;
+  color: #f7ebec;
+  align-items: center;
+}
+
+p {
+  color: #ddbdd5;
+}
+
+a {
+  color: #ddbdd5;
+}
+
+#input {
+  padding: 10px;
+  display: flex;
+  gap: 6px;
+}
+
+img {
+  width: 600px;
+  border-radius: 20px;
+}
+
+#botao {
+  background-color: #DDBDD5;
+  border-radius: 8px;
+  padding: 5px;
+}
