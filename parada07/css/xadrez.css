@@ -1,0 +1,12 @@
+table {
+  width: 600px;
+  height: 600px;
+}
+
+.r {
+  background-color: red;
+}
+
+.b {
+  background-color: blue;
+}
