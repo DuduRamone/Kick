@@ -1,0 +1,50 @@
+body {
+  background-image: url(./assets/background.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+
+table {
+  background-color: #f1f1f1;
+  margin: auto;
+  width: 600px;
+}
+
+table tr td {
+  padding: 10px;
+}
+
+#nav-box {
+  padding: 0px;
+  margin: 0px;
+  height: 45px;
+}
+
+#nav-box ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+}
+
+table tr td img {
+  width: 300px;
+}
+
+#titulo {
+  text-align: center;
+}
+
+#article-box {
+  text-align: justify;
+}
+
+#article-box h2{
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+}
+
